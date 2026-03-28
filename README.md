@@ -1,16 +1,28 @@
-## Hi there 👋
+```
+ whoami
+ > philipp derks · web dev · switzerland
 
-<!--
-**philderks/philderks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ cat about.txt
+ > i build things for the web.
+ > sometimes they even work.
 
-Here are some ideas to get you started:
+ ls hobbies/
+ > coding/   homelabbing/   games/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ git blame last-bug.js
+ > ^a4f9c2 (philderks, 4 months ago)   // why did i do this
+```
+
+---
+
+### // current status
+```
+tabs open                ▓▓▓▓▓▓▓▓▓▓  ∞
+todo list done           ▓░░░░░░░░░  10%
+documentation written    ░░░░░░░░░░  0%
+it works on my machine   ▓▓▓▓▓▓▓▓▓▓  100%
+```
+
+---
+
+→ [derks.dev](https://derks.dev)
