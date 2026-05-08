@@ -11,7 +11,7 @@ Hey, I’m Philipp. I build things for the web, manage my own servers, and occas
 ### Currently building
 
 - [derks.dev](https://derks.dev) — personal portfolio
-- [Fabricator](https://github.com/philderks/Fabricator) — Minecraft server manager built with Flask + Vue 3
+- [Fabricator](https://fabricator.site/) — Minecraft server manager built with Flask + Vue 3
 - [Homelab](https://github.com/philderks/Homelab) — self-hosted infrastructure, documented
 
 -----
