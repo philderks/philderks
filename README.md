@@ -16,9 +16,4 @@ Hey, I’m Philipp. I build things for the web, manage my own servers, and occas
 
 -----
 
-<img src="https://github-readme-stats.vercel.app/api?username=philderks&show_icons=true&hide_border=true&bg_color=141414&title_color=f97316&text_color=e8e0d5&icon_color=f97316&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philderks&layout=compact&hide_border=true&bg_color=141414&title_color=f97316&text_color=e8e0d5&langs_count=5" />
-
------
-
-[derks.dev](https://derks.dev) · [linkedin](https://linkedin.com/in/philipp-derks)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=philderks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
